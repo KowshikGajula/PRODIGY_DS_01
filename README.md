@@ -14,7 +14,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/data-visualization.git
+git clone https://github.com/KowshikGajula/PRODIGY_DS_01/blob/main/PRODIGY_DS_01.ipynb
 Navigate to the cloned directory:
 bash
 Copy code
